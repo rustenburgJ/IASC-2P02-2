@@ -15,5 +15,5 @@ Artifacts
 ![HP Handheld Artifact](https://github.com/rustenburgJ/IASC-2P02-Assignment-3/raw/master/images3/images.png)
 
 
-
+![HP Handheld Artifact](https://rustenburgj.github.io/IASC-2P02-Assignment-3/raw/master/images3/images.png)
 
