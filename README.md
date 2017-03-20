@@ -8,6 +8,6 @@ Coursework for Assignment 3
 Artifacts
 
 
-![Artifact](IASC-2P02-Assignment-3/images3/images.png)
+![Artifact](IASC-2P02-Assignment-3/images3/image.png)
 
 
