@@ -4,6 +4,12 @@
 
 [Reveal.js](http://lab.hakim.se/reveal-js/#/)
 
+# Legacy 
+
+#  Well-built to succeed 
+
+#  Built-in to Surpass
+
 ### Links
 
 [editor on GitHub](https://github.com/rustenburgJ/IASC-2P02/edit/master/README.md) 
