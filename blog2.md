@@ -36,7 +36,7 @@ Artifacts
 
 ## Blog post
 
-Continue to read [blog2](https://rustenburgJ.github.io/IASC-2P02/blog)
+Continue to read [blog Assignment 2](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 
 Continue to read [blog3](https://github.com/rustenburgJ/IASC-2P02-Assignment-3/blob/master/Assignment3)
