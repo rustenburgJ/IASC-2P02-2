@@ -23,3 +23,7 @@ Artifacts
 
 
 [Pocket PC](http://pocketpccentral.net/device_menus/pocket_pcs.htm)
+
+
+15 Slides / 20 seconds
+
