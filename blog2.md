@@ -34,10 +34,10 @@ Artifacts
 
 15 Slides / 20 seconds
 
-## Blog post
+## Blog posts
 
 Continue to read [blog Assignment 2](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 
-Continue to read [blog3](https://rustenburgj.github.io/IASC-2P02-2/blog2)
+Continue to read [blog Assignment 3](https://rustenburgj.github.io/IASC-2P02-2/blog2)
 
