@@ -1,4 +1,3 @@
-# Assignment 3 Blog
 #   Assignment 3 - Reveal.js
 
 [Reveal.js](http://lab.hakim.se/reveal-js/#/)
