@@ -25,6 +25,9 @@ Artifacts
 
 [Pocket PC](http://pocketpccentral.net/device_menus/pocket_pcs.htm)
 
+
+[Link to Apple iPod types](https://support.apple.com/en-ca/HT204217)
+
 <section data-markdown>
   ## Markdown support
 
