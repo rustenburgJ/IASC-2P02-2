@@ -24,6 +24,18 @@ Artifacts
 
 [Pocket PC](http://pocketpccentral.net/device_menus/pocket_pcs.htm)
 
+<section data-markdown>
+  ## Markdown support
+
+  Write content using inline or external Markdown.
+  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+</section>
+
+
 
 15 Slides / 20 seconds
+
+
+
+
 
