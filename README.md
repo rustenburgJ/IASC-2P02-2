@@ -17,6 +17,6 @@ Artifacts
 
 [Link](url) 
 
-[HP Handheld Review](http://www.pocketpccentral.net/ipaq1945.htm#ebay)
+[HP iPAQ 1945 | 1940 Pocket PC Handheld Review](http://www.pocketpccentral.net/ipaq1945.htm#ebay)
 
 
