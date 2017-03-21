@@ -26,6 +26,7 @@ Artifacts
 [Pocket PC](http://pocketpccentral.net/device_menus/pocket_pcs.htm)
 
 
+iPod touch (4th generation)
 iPod (5th generation Late 2006)—also known as iPod with video or Fifth Generation iPod
 
 Link to [Identify Your Apple iPod](https://support.apple.com/en-ca/HT204217)
