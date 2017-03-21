@@ -1,3 +1,5 @@
+#   Readme
+
 #   Assignment 3 - Reveal.js
 
 [Reveal.js](http://lab.hakim.se/reveal-js/#/)
@@ -32,12 +34,12 @@ Artifacts
 
 
 
-15 Slides / 20 seconds
 
+15 Slides / 20 seconds
 ## Blog post
 
 Continue to read [blog2](https://rustenburgJ.github.io/IASC-2P02/blog)
 
 
-Continue to read [blog3](https://rustenburgj.github.io/IASC-2P02-Assignment-3/)
+Continue to read [blog3](https://rustenburgj.github.io/IASC-2P02-2/)
 
