@@ -22,3 +22,4 @@ Artifacts
 [HP iPAQ 1945 | 1940 Pocket PC Handheld Review](http://www.pocketpccentral.net/ipaq1945.htm#ebay)
 
 
+[Pocket PC](http://pocketpccentral.net/device_menus/pocket_pcs.htm)
