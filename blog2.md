@@ -4,7 +4,7 @@
 
 ### Links
 
-[editor on GitHub](https://github.com/rustenburgJ/IASC-2P02/edit/master/README.md) 
+[editor on GitHub](https://github.com/hakimel/reveal.js#markdown) 
 
 Artifacts
 
