@@ -8,7 +8,7 @@
 
 #  Well-built to succeed 
 
-#  Built-in to Surpass
+#  Built to be Surpassed
 
 ### Links
 
